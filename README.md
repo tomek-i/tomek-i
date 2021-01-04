@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-i&layout=compact)](https://github.com/tomek-i)
 
+You can visit my Code Stats page here: https://codestats.net/users/tomek-i
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- Actual text -->
 
