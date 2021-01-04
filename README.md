@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 
-
+### 💬 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 Python       1 hr 42 mins    ███████████████████████░░   91.78 % 
@@ -30,6 +30,7 @@ TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- Actual text -->
 
+### Social Media
 You can find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
