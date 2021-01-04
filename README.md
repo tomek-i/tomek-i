@@ -20,6 +20,12 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 
 
 <!--START_SECTION:waka-->
+```text
+Python       1 hr 42 mins    ███████████████████████░░   91.78 % 
+HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+EJS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- Actual text -->
