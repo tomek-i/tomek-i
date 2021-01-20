@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+🔭 Currently I am working on on some private projects including a Social Community and an Dating App
+🌱 I’m currently diving deeper into BDD and UX
+👯 I’m looking to collaborate on my "poker buddy" as well as my "fitness-pal" project :-)
+
+below is a snipped of my coding activity.
 <!--
 **tomek-i/tomek-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
