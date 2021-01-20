@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Currently I am working on on some private projects including a Social Community and an Dating App
+- 🔭 Currently I am working on on some private projects including a Social Community and a Dating App
 - 🌱 I’m currently diving deeper into BDD and UX
 - 👯 I’m looking to collaborate on my "poker buddy" as well as my "fitness-pal" project :-)
 
