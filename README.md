@@ -27,7 +27,9 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 ### 💬 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#       1 hr 6 mins     ██████████████▒░░░░░░░░░░   56.90 % 
+Other    48 mins         ██████████▒░░░░░░░░░░░░░░   41.25 % 
+JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 
