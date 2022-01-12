@@ -27,7 +27,9 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 ### 💬 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   2 hrs 46 mins   ███████████████▓░░░░░░░░░   62.59 % 
+JavaScript   1 hr 14 mins    ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+JSON         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 ```
 <!--END_SECTION:waka-->
 
