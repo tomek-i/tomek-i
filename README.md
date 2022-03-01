@@ -28,12 +28,12 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      3 hrs 38 mins   ████████████████▒░░░░░░░░   65.37 %
-YAML            1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Bash            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Markdown        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Apache Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Terraform       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+TypeScript      3 hrs 38 mins   ██████████████▓░░░░░░░░░░   58.39 %
+YAML            1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+Terraform       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Git Config      16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Markdown        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Bash            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
