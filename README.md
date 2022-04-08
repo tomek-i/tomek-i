@@ -28,9 +28,12 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-PHP        33 mins         ████████████████████▓░░░░   82.11 %
-Markdown   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+TypeScript   1 hr 47 mins    ████████████▓░░░░░░░░░░░░   51.31 %
+PHP          33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Bash         31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Markdown     22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+YAML         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
