@@ -28,9 +28,7 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-C#      1 min           ████████████████▓░░░░░░░░   66.16 %
-JSON    0 secs          ████████▒░░░░░░░░░░░░░░░░   33.23 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
