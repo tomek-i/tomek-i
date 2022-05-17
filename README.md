@@ -28,7 +28,11 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP             1 hr 15 mins    ███████████████▒░░░░░░░░░   60.79 %
+YAML            14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+JSON            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Git Config      6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Other           6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
