@@ -28,12 +28,12 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-YAML            2 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.60 %
-PHP             1 hr 48 mins    ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-Terraform       48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Docker          46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-HTML            28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-JavaScript      20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+YAML            2 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   33.23 %
+PHP             1 hr 50 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+Terraform       51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Docker          49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+HTML            28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+JavaScript      20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
