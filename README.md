@@ -28,10 +28,10 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-Docker          2 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
-PHP             2 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-YAML            1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Other           45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Docker          2 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+PHP             2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+YAML            59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Other           46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 ```
 
 <!--END_SECTION:waka-->
