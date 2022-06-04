@@ -28,12 +28,9 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-PHP             44 mins         ██████████████▓░░░░░░░░░░   58.28 %
-Git Config      8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-YAML            6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-JavaScript      5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Apache Config   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-HTML            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+PHP          32 mins         ████████████████████▒░░░░   81.68 %
+JavaScript   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->
