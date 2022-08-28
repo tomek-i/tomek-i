@@ -28,12 +28,12 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 44 mins    ████████░░░░░░░░░░░░░░░░░   32.38 %
-TypeScript   1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   24.42 %
-JSON         1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
-PHP          45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-SCSS         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-PowerShell   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Markdown     1 hr 12 mins    █████████░░░░░░░░░░░░░░░░   35.76 %
+JSON         1 hr            ███████▓░░░░░░░░░░░░░░░░░   30.21 %
+TypeScript   34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+PowerShell   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+SCSS         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+PHP          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
