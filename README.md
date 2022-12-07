@@ -28,12 +28,12 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 1 min     █████████████████████░░░░   83.78 %
-JSON         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-JavaScript   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Bash         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Docker       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript   11 hrs 13 mins  █████████████████████░░░░   83.39 %
+Bash         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+JavaScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Smarty       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Terraform    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
