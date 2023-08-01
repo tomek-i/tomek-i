@@ -28,10 +28,9 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 50 mins   ███████████████████░░░░░░   76.37 %
-Markdown     46 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
-CSV          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   2 hrs 56 mins   ███████████████████▒░░░░░   77.79 %
+Markdown     46 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+CSV          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
