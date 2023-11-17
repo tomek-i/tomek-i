@@ -28,8 +28,11 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   3 mins          ██████████████████████░░░   87.43 %
-C#           0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+CSS          10 mins         ████████░░░░░░░░░░░░░░░░░   31.61 %
+Markdown     9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.78 %
+TypeScript   7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+Git Config   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
