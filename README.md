@@ -28,10 +28,7 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         8 mins          ███████████████████████░░   92.37 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-SCSS         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
