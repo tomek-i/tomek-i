@@ -28,7 +28,9 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON    10 mins         ███████████████████████░░   92.38 %
+Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+HTML    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
