@@ -28,11 +28,11 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```txt
-Prisma       35 mins         ████████████░░░░░░░░░░░░░   47.83 %
-TypeScript   31 mins         ██████████▓░░░░░░░░░░░░░░   42.60 %
-JavaScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-EJS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   1 hr 42 mins    ███████████▓░░░░░░░░░░░░░   47.14 %
+Prisma       45 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+JSON         21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Markdown     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Other        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
