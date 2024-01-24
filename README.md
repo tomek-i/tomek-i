@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+<!--
 
 - 🔭 Currently I am working on on some private projects including a Social Community and a Dating App
 - 🌱 I’m currently diving deeper into BDD and UX
 - 👯 I’m looking to collaborate on my "poker buddy" as well as my "fitness-pal" project :-)
+
+-->
 
 below is a snipped of my coding activity.
 <!--
@@ -34,9 +37,10 @@ TypeScript   10 mins         █████████████████
 <!--END_SECTION:waka-->
 
 <!-- Actual text -->
-
+<!--
 ### Social Media
 You can find me on [![Twitter][1.2]][1]
+-->
 
 <!-- Icons -->
 
