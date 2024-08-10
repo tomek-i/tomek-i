@@ -31,11 +31,9 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        1 hr 18 mins    █████████████▓░░░░░░░░░░░   54.09 %
-Markdown          19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Protocol Buffer   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-PowerShell        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Bash              10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Protocol Buffer   14 mins         ███████████████▓░░░░░░░░░   62.02 %
+C#                7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.77 %
+Bash              1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
 ```
 
 <!--END_SECTION:waka-->
