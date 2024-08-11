@@ -31,9 +31,7 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```txt
-Protocol Buffer   14 mins         ███████████████▓░░░░░░░░░   62.02 %
-C#                7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.77 %
-Bash              1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
