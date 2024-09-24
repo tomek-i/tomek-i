@@ -31,11 +31,11 @@ You can visit my Code Stats page here: https://codestats.net/users/tomek-i
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 4 mins    ████████████████████▒░░░░   81.79 %
-CSS          1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   11 hrs 20 mins  █████████████████████▒░░░   84.73 %
+CSS          1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
