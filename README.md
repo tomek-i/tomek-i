@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hello YOU 👋 It's your dev, Tom.
+
+- 🏢 I’m working at [SSW][workplace]. When not on client work, I focus on:
+  - [SugarLearning][sugar]
+  - [YakShaver][yak]
+  - Running the [SSW FireBootCamp][fboot]
+- 🔭 Currently, I’m involved in a variety of projects, including:
+  - 💰 Personal Finance
+  - 📄 Document Management
+  - 🏋🏻 AI Fitness
+  - ...and more!
+- 🌱 Always exploring the latest trends, especially in AI. IT is evolving so fast!
+- 👯 Looking forward to collaborating on exciting ideas :-)
+
+You can learn more about me on my [GitHub Page][hp].
+---
+
+### 🖥️ Coding Activity
 
 <!--
 
@@ -8,7 +25,7 @@
 
 -->
 
-below is a snipped of my coding activity.
+Below is a snapshot of my coding activity:
 <!--
 **tomek-i/tomek-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +42,7 @@ Here are some ideas to get you started:
 -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-i&layout=compact)](https://github.com/tomek-i)
 
-You can visit my Code Stats page here: https://codestats.net/users/tomek-i
+You can also visit my Code Stats page: [tomek-i's Code Stats](https://codestats.net/users/tomek-i)
 
 ### 💬 Weekly development breakdown
 <!--START_SECTION:waka-->
@@ -51,6 +68,11 @@ You can find me on [![Twitter][1.2]][1]
 [1.2]: http://i.imgur.com/wWzX9uB.png 
 
 
-<!-- Links to your social media accounts -->
+<!-- Links -->
 
 [1]: https://twitter.com/tomek_i
+[workplace]: https://www.ssw.com.au
+[sugar]: https://sugarlearning.com
+[yak]: https://yakshaver.ai
+[fboot]: https://firebootcamp.com
+[hp]:https://tomek.au
