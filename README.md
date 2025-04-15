@@ -1,16 +1,16 @@
 ### Hello YOU 👋 It's your dev, Tom.
 
-- 🏢 I’m working at [SSW][workplace]. When not on client work, I focus on:
-  - [SugarLearning][sugar]
-  - [YakShaver][yak]
-  - Running the [SSW FireBootCamp][fboot]
-- 🔭 Currently, I’m involved in a variety of projects, including:
+- 🏢 I’m working at [SSW][workplace]. When not on client work, I focus and work on:
+  - [🍭 SugarLearning][sugar]
+  - [🤖 YakShaver][yak]
+  - Running the [💻 SSW FireBootCamp][fboot]
+- 🚀 Currently, I’m involved in a variety of projects, including:
   - 💰 Personal Finance
   - 📄 Document Management
   - 🏋🏻 AI Fitness
   - ...and more!
 - 🌱 Always exploring the latest trends, especially in AI. IT is evolving so fast!
-- 👯 Looking forward to collaborating on exciting ideas :-)
+- 🔭 Looking forward to collaborating on exciting ideas :-)
 
 You can learn more about me on my [GitHub Page][hp].
 ---
