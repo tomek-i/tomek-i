@@ -15,8 +15,6 @@
 You can learn more about me on my [GitHub Page][hp].
 ---
 
-### 🖥️ Coding Activity
-
 <!--
 
 - 🔭 Currently I am working on on some private projects including a Social Community and a Dating App
