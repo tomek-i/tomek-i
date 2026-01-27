@@ -44,17 +44,6 @@ Here are some ideas to get you started:
 
 You can also visit my Code Stats page: [tomek-i's Code Stats](https://codestats.net/users/tomek-i)
 
-### 💬 Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-MDX          1 hr 6 mins     ██████████████░░░░░░░░░░░   56.55 %
-TypeScript   48 mins         ██████████▒░░░░░░░░░░░░░░   40.70 %
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-```
-
-<!--END_SECTION:waka-->
 
 <!-- Actual text -->
 <!--
