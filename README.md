@@ -1,53 +1,32 @@
-### Hello YOU 👋 It's your dev, Tom.
+### Hi there! 👋 I'm Thomas Iwainski, Senior Software Engineer
 
-- 🏢 I’m working at [SSW][workplace]. When not on client work, I focus and work on:
-  - [🍭 SugarLearning][sugar]
-  - [🤖 YakShaver][yak]
-  - Running the [💻 SSW FireBootCamp][fboot]
-- 🚀 Currently, I’m involved in a variety of projects, including:
-  - 💰 Personal Finance
-  - 📄 Document Management
-  - 🏋🏻 AI Fitness
-  - ...and more!
-- 🌱 Always exploring the latest trends, especially in AI. IT is evolving so fast!
-- 🔭 Looking forward to collaborating on exciting ideas :-)
+## 🚀 About Me
+- 🏢 **Senior Software Engineer at [SSW][workplace]** - Building enterprise solutions with C#/.NET and modern JavaScript ecosystems
+- 🚀 **Passionate about creating scalable, high-performance applications** with over 10 years of experience in desktop and web development
+- 🌱 **Always learning** - Exploring cutting-edge AI technologies and software architecture patterns
+- 🎯 **Open to collaboration** on challenging projects that push the boundaries of what's possible
 
+## 💼 Current Projects & Leadership
+- **[🍭 SugarLearning][sugar]** - Educational technology platform
+- **[🤖 YakShaver][yak]** - AI-powered development tools  
+- **[💻 SSW FireBootCamp][fboot]** - Training the next generation of developers
+- **Enterprise Solutions** - Personal Finance, Document Management, AI Fitness applications
+
+## 🛠️ Technical Expertise
+- **Primary Stack:** C#/.NET, React, Next.js, Node.js, TypeScript
+- **Specialization:** Enterprise application architecture, scalable web applications
+- **Current Focus:** AI integration, modern JavaScript ecosystems, high-performance desktop applications
+
+## 🤝 Let's Connect
 You can learn more about me on my [GitHub Page][hp].
 ---
 
-<!--
-
-- 🔭 Currently I am working on on some private projects including a Social Community and a Dating App
-- 🌱 I’m currently diving deeper into BDD and UX
-- 👯 I’m looking to collaborate on my "poker buddy" as well as my "fitness-pal" project :-)
-
--->
-
+## 📊 Coding Activity
 Below is a snapshot of my coding activity:
-<!--
-**tomek-i/tomek-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-i&layout=compact)](https://github.com/tomek-i)
 
 You can also visit my Code Stats page: [tomek-i's Code Stats](https://codestats.net/users/tomek-i)
 
-
-<!-- Actual text -->
-<!--
-### Social Media
-You can find me on [![Twitter][1.2]][1]
--->
 
 <!-- Icons -->
 
