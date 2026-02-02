@@ -1,43 +1,63 @@
-### Hi there! 👋 I'm Thomas Iwainski, Senior Software Engineer
+# 👋 Hi, I'm Thomas Iwanski - Senior Software Engineer & Tech Lead
 
-## 🚀 About Me
-- 🏢 **Senior Software Engineer at [SSW][workplace]** - Building enterprise solutions with C#/.NET and modern JavaScript ecosystems
-- 🚀 **Passionate about creating scalable, high-performance applications** with over 10 years of experience in desktop and web development
-- 🌱 **Always learning** - Exploring cutting-edge AI technologies and software architecture patterns
-- 🎯 **Open to collaboration** on challenging projects that push the boundaries of what's possible
+<!-- Dynamic badges -->
+[![Available for new opportunities](https://img.shields.io/badge/Status-Available%20for%20new%20opportunities-brightgreen)](https://tomek.au)
+[![Location: Sydney](https://img.shields.io/badge/Location-Sydney%2C%20Australia-blue)](https://tomek.au)
+[![Experience: 10+ years](https://img.shields.io/badge/Experience-10%2B%20years-orange)](https://tomek.au)
 
-## 💼 Current Projects & Leadership
-- **[🍭 SugarLearning][sugar]** - Educational technology platform
-- **[🤖 YakShaver][yak]** - AI-powered development tools  
-- **[💻 SSW FireBootCamp][fboot]** - Training the next generation of developers
-- **Enterprise Solutions** - Personal Finance, Document Management, AI Fitness applications
+> 🚀 **Senior Software Engineer at SSW** building enterprise solutions with C#/.NET and modern JavaScript ecosystems. Passionate about scalable architecture, AI integration, and mentoring the next generation of developers.
 
-## 🛠️ Technical Expertise
-- **Primary Stack:** C#/.NET, React, Next.js, Node.js, TypeScript
-- **Specialization:** Enterprise application architecture, scalable web applications
-- **Current Focus:** AI integration, modern JavaScript ecosystems, high-performance desktop applications
+## 🔥 What I'm Building Now
 
-## 🤝 Let's Connect
-You can learn more about me on my [GitHub Page][hp].
+- **[🤖 YakShaver](https://yakshaver.ai)** - Commercial AI product for video transcription, intent analysis, and automated task execution
+- **[🍭 SugarLearning](https://sugarlearning.com)** - Educational technology platform 
+- **[💻 SSW FireBootCamp](https://firebootcamp.com)** - Leading developer training programs
+- **etc.** - there's more to come and view here at [tomek.au](https://tomek.au)
+
+## 🎯 Leadership & Impact
+
+**Tech Lead & Scrum Master** at [SSW][workplace]
+- 📈 **Scaled development teams** from 2 to 5+ members
+- 🔄 **Led .NET 4.2→.NET 8 migration** across enterprise solutions  
+- 👥 **Scrum Master** for multiple teams (SSW TV, FirebootCamp)
+- 🎓 **Training programs** for emerging developers
+
+## 🛠️ Technical Arsenal
+
+### Core Technologies
+```
+🔧 C#/.NET • 🐍 Python • 📜 TypeScript
+⚛️ React • 🚀 Next.js • 🟢 Node.js • 📱 Electron
+🗄️ MSSQL Server • 🐘 PostgreSQL • 🍃 MongoDB
+☁️ Azure • ☁️ AWS • 🐳 Docker
+```
+
 ---
 
-## 📊 Coding Activity
-Below is a snapshot of my coding activity:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-i&layout=compact)](https://github.com/tomek-i)
+## 🌐 Connect With Me
 
-You can also visit my Code Stats page: [tomek-i's Code Stats](https://codestats.net/users/tomek-i)
+**[📱 My Portfolio & Full Story](https://tomek.au)** ← Complete professional journey
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/tomek.i)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/tomek-i)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/12345678/tomek-i)
+
+---
+
+## 📊 Development Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-i&layout=compact&hide=html,css)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomek-i&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/tomek-i)
+
+**🔍 [Detailed Code Stats](https://codestats.net/users/tomek-i)** - Real-time coding analytics
 
 
-<!-- Icons -->
+---
 
-[1.2]: http://i.imgur.com/wWzX9uB.png 
+**💡 Fun Fact:** I've led digital transformation across diverse industries - from winery operations to AI-powered development tools! My journey spans 15+ years from junior developer to tech lead, always focused on building solutions that make a real impact.
 
+*Psst... For the complete story including my career progression and educational background, check out [tomek.au](https://tomek.au)*
 
 <!-- Links -->
-
-[1]: https://twitter.com/tomek_i
 [workplace]: https://www.ssw.com.au
-[sugar]: https://sugarlearning.com
-[yak]: https://yakshaver.ai
-[fboot]: https://firebootcamp.com
-[hp]:https://tomek.au
