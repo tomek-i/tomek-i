@@ -46,11 +46,11 @@
 
 ## 📊 Development Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-i&layout=compact&hide=html,css)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-i&layout=compact&hide=html,css) -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomek-i&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/tomek-i)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomek-i&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/tomek-i) -->
 
-**🔍 [Detailed Code Stats](https://codestats.net/users/tomek-i)** - Real-time coding analytics
+**🔍 [Code Stats](https://codestats.net/users/tomek-i)** - Real-time coding analytics
 
 
 ---
