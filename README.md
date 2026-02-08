@@ -48,11 +48,11 @@ You can also visit my Code Stats page: [tomek-i's Code Stats](https://codestats.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 16 mins    █████████░░░░░░░░░░░░░░░░   35.70 %
-JSON         47 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-TypeScript   43 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-JavaScript   33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-XML          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+TypeScript   37 mins         ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+JSON         34 mins         ███████░░░░░░░░░░░░░░░░░░   28.32 %
+Markdown     26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+JavaScript   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
