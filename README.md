@@ -48,11 +48,11 @@ You can also visit my Code Stats page: [tomek-i's Code Stats](https://codestats.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 3 mins          ███████████████▓░░░░░░░░░   62.31 %
-Markdown     31 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-C#           24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-INI          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-CSS          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+TypeScript   2 hrs 3 mins          ████████████████████▓░░░░   83.00 %
+Markdown     17 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+CSS          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Text         3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
